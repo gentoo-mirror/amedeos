@@ -2,7 +2,7 @@ app-misc/onefetch 2.2.0: Git repository summary on your terminal
 dev-qt/qt-examples 5.14.1-r1 5.14.2: Examples for the Qt5 framework
 net-im/bluejeans 2.1.0: Online meetings, video conferencing, and screen sharing for teams of any size
 net-vpn/NordVPN-NetworkManager-Gui 1.4.1: A NordVPN GUI client for linux using the native Network Manager
-net-vpn/nordvpn-cli 0.0.1: A tool for managing NordVPN profiles for OpenVPN
+net-vpn/nordvpn-cli 0.0.1 0.0.1-r1: A tool for managing NordVPN profiles for OpenVPN
 sys-power/ControlFANs 0.0.2 0.0.3: Control FANs data using hwmon interface
 sys-power/ZenStates-Linux 0.0.1: Dynamically edit AMD Ryzen processor P-States
 sys-power/changegovernor 0.4.1 0.4.1-r1: Change CPU governor based on processes running
