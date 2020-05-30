@@ -1,6 +1,6 @@
 app-misc/onefetch 2.2.0: Git repository summary on your terminal
-dev-qt/qt-examples 5.14.1-r1 5.14.2: Examples for the Qt5 framework
-net-im/bluejeans 2.1.0: Online meetings, video conferencing, and screen sharing for teams of any size
+dev-qt/qt-examples 5.14.1-r1 5.14.2 5.15.0: Examples for the Qt5 framework
+net-im/bluejeans 2.1.0 2.2.0: Online meetings, video conferencing, and screen sharing for teams of any size
 net-misc/megacmd 1.1.0 1.2.0: Command Line Interactive and Scriptable Application to access MEGA
 net-misc/meganz-sdk 3.6.8 3.6.9: MEGA C++ SDK
 net-vpn/NordVPN-NetworkManager-Gui 1.4.1: A NordVPN GUI client for linux using the native Network Manager
