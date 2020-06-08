@@ -5,6 +5,7 @@ net-misc/megacmd 1.1.0 1.2.0: Command Line Interactive and Scriptable Applicatio
 net-misc/meganz-sdk 3.6.8 3.6.9: MEGA C++ SDK
 net-vpn/NordVPN-NetworkManager-Gui 1.4.1: A NordVPN GUI client for linux using the native Network Manager
 net-vpn/nordvpn-cli 0.0.1 0.0.1-r1 0.0.1-r2: A tool for managing NordVPN profiles for OpenVPN
+sys-apps/apparmor 2.13.4 2.13.4-r1: Userspace utils and init scripts for the AppArmor application security system
 sys-power/ControlFANs 0.0.2 0.0.3: Control FANs data using hwmon interface
 sys-power/ZenStates-Linux 0.0.1: Dynamically edit AMD Ryzen processor P-States
 sys-power/changegovernor 0.4.1 0.4.1-r1: Change CPU governor based on processes running
