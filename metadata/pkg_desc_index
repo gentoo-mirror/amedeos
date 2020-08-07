@@ -11,4 +11,4 @@ net-vpn/nordvpn-cli 0.0.1 0.0.1-r1 0.0.1-r2: A tool for managing NordVPN profile
 sys-apps/apparmor 2.13.4 2.13.4-r1: Userspace utils and init scripts for the AppArmor application security system
 sys-power/ControlFANs 0.0.2 0.0.3: Control FANs data using hwmon interface
 sys-power/ZenStates-Linux 0.0.1: Dynamically edit AMD Ryzen processor P-States
-sys-power/changegovernor 0.4.1-r1 0.5.3 0.5.4 0.5.5: Change CPU governor based on processes running
+sys-power/changegovernor 0.4.1-r1 0.5.3 0.5.4 0.5.5 0.5.6: Change CPU governor based on processes running
