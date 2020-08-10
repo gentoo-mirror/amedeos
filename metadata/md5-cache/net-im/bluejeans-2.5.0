@@ -1,0 +1,11 @@
+BDEPEND=>=app-arch/rpm2targz-9.0.0.3g
+DEFINED_PHASES=install unpack
+DESCRIPTION=Online meetings, video conferencing, and screen sharing for teams of any size
+EAPI=7
+HOMEPAGE=https://www.bluejeans.com
+KEYWORDS=~amd64 ~x86
+LICENSE=BlueJeans
+SLOT=0
+SRC_URI=https://swdl.bluejeans.com/desktop-app/linux/2.5.0/BlueJeans_2.5.0.50.rpm
+_eclasses_=estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	rpm	760ff223c2c4299b68ea901e24c4cabd
+_md5_=d80edaeca1d602743865674b29f7f96a
