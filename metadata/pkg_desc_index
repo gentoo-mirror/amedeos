@@ -5,7 +5,7 @@ app-misc/onefetch 2.2.0: Git repository summary on your terminal
 app-shells/ansible-completion 0.0.1: Basic bash completion for Ansible
 dev-python/ovirt-engine-sdk-python 4.4.6: Python SDK for version 4 of the oVirt Engine API
 dev-python/pyvmomi 6.7.3: pyVmomi is the Python SDK for the VMware vSphere API that allows you to manage ESX, ESXi, and vCenter
-dev-python/virtualbmc 2.2.0: Create virtual BMCs for controlling virtual instances via IPMI
+dev-python/virtualbmc 2.2.0 2.2.0-r1: Create virtual BMCs for controlling virtual instances via IPMI
 dev-python/yamllint 1.23.0: A linter for YAML files.
 dev-qt/qt-examples 5.14.1-r1 5.14.2 5.15.0: Examples for the Qt5 framework
 dev-util/packer 1.6.4: A tool to create identical machine images for multiple platforms
