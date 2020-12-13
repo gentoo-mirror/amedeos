@@ -17,6 +17,6 @@ net-misc/megasync 4.3.3 4.3.3-r1 4.3.5: A Qt-based program for syncing your MEGA
 net-vpn/NordVPN-NetworkManager-Gui 1.4.1: A NordVPN GUI client for linux using the native Network Manager
 net-vpn/nordvpn-cli 0.0.1 0.0.1-r1 0.0.1-r2: A tool for managing NordVPN profiles for OpenVPN
 sys-apps/apparmor 2.13.4 2.13.4-r1: Userspace utils and init scripts for the AppArmor application security system
-sys-power/ControlFANs 0.0.2 0.0.3: Control FANs data using hwmon interface
+sys-power/ControlFANs 0.0.2 0.0.3 0.0.4: Control FANs data using hwmon interface
 sys-power/ZenStates-Linux 0.0.1: Dynamically edit AMD Ryzen processor P-States
 sys-power/changegovernor 0.6.0 0.7.0 0.7.1 0.7.2 0.7.3: Change CPU governor based on processes running
