@@ -11,5 +11,5 @@ RDEPEND=>=net-misc/meganz-sdk-3.6.5:=[-megacmd(-),sodium(+),sqlite] dev-libs/lib
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/meganz/megacmd/archive/1.2.0_Linux.tar.gz -> megacmd-1.2.0.tar.gz
-_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	4ba6c345bf49883c84d5fa5c9bf40c0b	vcs-snapshot	b1abf460a493fc59ebb25de0df3f09dd
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	6ff8412ccf96444868b310b0a28973ba	vcs-snapshot	b1abf460a493fc59ebb25de0df3f09dd
 _md5_=70897fb9c09a24e3c61ecf4c24d4ee80
