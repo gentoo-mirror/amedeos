@@ -3,6 +3,7 @@ acct-user/vbmc 0: System user: vbmc
 app-admin/ansible 2.9.14: Model-driven deployment, config management, and command execution framework
 app-misc/onefetch 2.2.0: Git repository summary on your terminal
 app-shells/ansible-completion 0.0.1: Basic bash completion for Ansible
+app-text/pdfslicer 1.8.8: A simple application to extract, merge, rotate and reorder pages of PDF documents
 dev-python/ovirt-engine-sdk-python 4.4.6: Python SDK for version 4 of the oVirt Engine API
 dev-python/pyvmomi 6.7.3: pyVmomi is the Python SDK for the VMware vSphere API that allows you to manage ESX, ESXi, and vCenter
 dev-python/virtualbmc 2.2.0 2.2.0-r1 2.2.0-r2: Create virtual BMCs for controlling virtual instances via IPMI
