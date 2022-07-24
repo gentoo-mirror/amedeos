@@ -10,7 +10,7 @@ dev-python/virtualbmc 2.2.0 2.2.0-r1 2.2.0-r2: Create virtual BMCs for controlli
 dev-python/yamllint 1.23.0: A linter for YAML files.
 dev-util/packer 1.6.4: A tool to create identical machine images for multiple platforms
 media-tv/dvb-firmware 0.0.51: dvb-demod-* firmware from the OpenELEC project
-net-im/bluejeans 2.1.0 2.2.0 2.5.0 2.23.0: Online meetings, video conferencing, and screen sharing for teams of any size
+net-im/bluejeans 2.23.0 2.29.1: Online meetings, video conferencing, and screen sharing for teams of any size
 net-misc/megacmd 1.1.0 1.2.0: Command Line Interactive and Scriptable Application to access MEGA
 net-misc/meganz-sdk 3.6.8 3.6.9: MEGA C++ SDK
 net-misc/megasync 4.3.3 4.3.3-r1 4.3.5 4.3.7 4.4.0: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
