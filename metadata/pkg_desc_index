@@ -11,7 +11,6 @@ dev-util/packer 1.6.4: A tool to create identical machine images for multiple pl
 media-tv/dvb-firmware 0.0.51: dvb-demod-* firmware from the OpenELEC project
 net-im/bluejeans 2.23.0 2.29.1: Online meetings, video conferencing, and screen sharing for teams of any size
 net-misc/megacmd 1.1.0 1.2.0: Command Line Interactive and Scriptable Application to access MEGA
-net-misc/meganz-sdk 3.6.8 3.6.9: MEGA C++ SDK
 net-vpn/NordVPN-NetworkManager-Gui 1.4.1: A NordVPN GUI client for linux using the native Network Manager
 net-vpn/nordvpn-cli 0.0.1 0.0.1-r1 0.0.1-r2: A tool for managing NordVPN profiles for OpenVPN
 sys-apps/apparmor 2.13.4 2.13.4-r1: Userspace utils and init scripts for the AppArmor application security system
