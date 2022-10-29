@@ -1,12 +1,12 @@
 acct-group/vbmc 0: System group: vbmc
 acct-user/vbmc 0 0-r1: System user: vbmc
-app-admin/openshift-client-linux 4.10.22 4.10.26 4.11.0: Conformance test suite for OpenShift
+app-admin/openshift-client-linux 4.10.26 4.10.37 4.11.0 4.11.9: Conformance test suite for OpenShift
 app-misc/onefetch 2.2.0: Git repository summary on your terminal
 app-shells/ansible-completion 0.0.1: Basic bash completion for Ansible
 dev-python/ironic-lib 5.3.0: Ironic common library
 dev-python/ovirt-engine-sdk-python 4.4.6: Python SDK for version 4 of the oVirt Engine API
 dev-python/pyvmomi 6.7.3: pyVmomi is the Python SDK for the VMware vSphere API that allows you to manage ESX, ESXi, and vCenter
-dev-python/sushy-tools 0.20.0: A set of tools to support the development and test of the Sushy library
+dev-python/sushy-tools 0.20.0-r1: A set of tools to support the development and test of the Sushy library
 dev-python/virtualbmc 2.2.0 2.2.0-r1 2.2.0-r2: Create virtual BMCs for controlling virtual instances via IPMI
 dev-python/yamllint 1.23.0: A linter for YAML files.
 dev-util/packer 1.6.4: A tool to create identical machine images for multiple platforms
