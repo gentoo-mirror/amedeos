@@ -10,7 +10,6 @@ dev-python/pyvmomi 6.7.3: pyVmomi is the Python SDK for the VMware vSphere API t
 dev-python/sushy-tools 0.20.0-r1: A set of tools to support the development and test of the Sushy library
 dev-python/userpath 1.8.0: Cross-platform tool for adding locations to the user PATH
 dev-python/virtualbmc 2.2.0 2.2.0-r1 2.2.0-r2: Create virtual BMCs for controlling virtual instances via IPMI
-dev-python/yamllint 1.23.0: A linter for YAML files.
 dev-util/packer 1.6.4: A tool to create identical machine images for multiple platforms
 media-tv/dvb-firmware 0.0.51: dvb-demod-* firmware from the OpenELEC project
 net-im/bluejeans 2.23.0 2.29.1: Online meetings, video conferencing, and screen sharing for teams of any size
