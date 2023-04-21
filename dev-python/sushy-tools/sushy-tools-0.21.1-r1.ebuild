@@ -4,13 +4,13 @@
 EAPI=8
 
 DISTUTILS_USE_SETUPTOOLS=rdepend
-PYTHON_COMPAT=( python3_{8,9} pypy3 )
+PYTHON_COMPAT=( python3_{9,10,11} pypy3 )
 
 inherit distutils-r1 systemd
 
 DESCRIPTION="A set of tools to support the development and test of the Sushy library"
 HOMEPAGE="https://docs.openstack.org/sushy/"
-SRC_URI="https://files.pythonhosted.org/packages/87/c5/69ebd1e622f053707c9d796a941ff9d06b2a893cc8cd1e7279c45fb5ed82/${PN}-${PV}.tar.gz -> ${P}.tar.gz"
+SRC_URI="https://files.pythonhosted.org/packages/8d/46/8160b690ed7c515b7a7962e03aca43a1febba5c4ab756aa789c1fdac18fc/${PN}-${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="Apache-2.0"
 SLOT="0"
@@ -45,7 +45,7 @@ RDEPEND="
 	dev-python/certifi
 	dev-python/bcrypt
 	dev-python/async-timeout
-	dev-python/python-zeroconf
+	dev-python/zeroconf
 	dev-python/werkzeug
 	dev-python/stevedore
 	dev-python/requests
@@ -55,7 +55,7 @@ RDEPEND="
 	dev-python/oslo-concurrency
 	dev-python/oslo-i18n
 	dev-python/jinja
-	dev-python/importlib_metadata
+	dev-python/importlib-metadata
 	dev-python/debtcollector
 	dev-python/ironic-lib
 "
