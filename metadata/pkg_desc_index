@@ -7,7 +7,7 @@ dev-python/ironic-lib 5.3.0 5.4.0: Ironic common library
 dev-python/ovirt-engine-sdk-python 4.4.6: Python SDK for version 4 of the oVirt Engine API
 dev-python/pipx 1.1.0 1.2.0: Install and Run Python Applications in Isolated Environments
 dev-python/pyvmomi 6.7.3: pyVmomi is the Python SDK for the VMware vSphere API that allows you to manage ESX, ESXi, and vCenter
-dev-python/sushy-tools 0.20.0-r1 0.21.1: A set of tools to support the development and test of the Sushy library
+dev-python/sushy-tools 0.21.1 0.21.1-r1: A set of tools to support the development and test of the Sushy library
 dev-python/userpath 1.8.0: Cross-platform tool for adding locations to the user PATH
 dev-python/virtualbmc 2.2.0 2.2.0-r1 2.2.0-r2: Create virtual BMCs for controlling virtual instances via IPMI
 dev-util/packer 1.6.4: A tool to create identical machine images for multiple platforms
