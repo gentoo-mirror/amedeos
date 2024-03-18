@@ -17,6 +17,7 @@ net-im/bluejeans 2.23.0 2.29.1: Online meetings, video conferencing, and screen 
 net-misc/megacmd 1.1.0 1.2.0: Command Line Interactive and Scriptable Application to access MEGA
 net-vpn/NordVPN-NetworkManager-Gui 1.4.1: A NordVPN GUI client for linux using the native Network Manager
 net-vpn/nordvpn-cli 0.0.1 0.0.1-r1 0.0.1-r2: A tool for managing NordVPN profiles for OpenVPN
+net-vpn/protonvpn-cli 2.2.12: A VPN command-line tool from protonvpn - python rewrite
 sys-apps/apparmor 2.13.4 2.13.4-r1: Userspace utils and init scripts for the AppArmor application security system
 sys-power/ControlFANs 0.0.2 0.0.3 0.0.4: Control FANs data using hwmon interface
 sys-power/ZenStates-Linux 0.0.1: Dynamically edit AMD Ryzen processor P-States
