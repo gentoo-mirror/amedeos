@@ -2,3 +2,8 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+net-misc/megasync:dolphin - Upload your files to your Mega account from Dolphin file manager.
+net-misc/megasync:freeimage - Use freeimage to manage graphic images format.
+net-misc/megasync:nautilus - Upload your files to your Mega account from nautilus.
+net-misc/megasync:nemo - Upload your files to your Mega account from Nemo.
+net-misc/megasync:thunar - Upload your files to your Mega account from Thunar.
