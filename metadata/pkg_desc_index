@@ -14,7 +14,6 @@ dev-util/packer 1.6.4: A tool to create identical machine images for multiple pl
 media-tv/dvb-firmware 0.0.51: dvb-demod-* firmware from the OpenELEC project
 net-im/bluejeans 2.23.0 2.29.1: Online meetings, video conferencing, and screen sharing for teams of any size
 net-misc/megasync 4.12.2.0: The official Qt-based program for syncing your MEGA account in your PC
-net-vpn/NordVPN-NetworkManager-Gui 1.4.1: A NordVPN GUI client for linux using the native Network Manager
 net-vpn/nordvpn-cli 0.0.1 0.0.1-r1 0.0.1-r2: A tool for managing NordVPN profiles for OpenVPN
 net-vpn/protonvpn-cli 2.2.12-r1: A VPN command-line tool from protonvpn - python rewrite
 sys-apps/apparmor 2.13.4 2.13.4-r1: Userspace utils and init scripts for the AppArmor application security system
