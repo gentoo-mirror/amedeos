@@ -1,6 +1,6 @@
 acct-group/vbmc 0: System group: vbmc
 acct-user/vbmc 0 0-r1: System user: vbmc
-app-admin/openshift-client-linux 4.10.37 4.10.45 4.11.9 4.11.20: Conformance test suite for OpenShift
+app-admin/openshift-client-linux 4.16.30 4.17.12: Conformance test suite for OpenShift
 app-emulation/virtiofsd 1.7.2: Shared file system for virtual machines
 app-shells/ansible-completion 0.0.1: Basic bash completion for Ansible
 dev-python/ironic-lib 5.4.0 6.2.0: Ironic common library
